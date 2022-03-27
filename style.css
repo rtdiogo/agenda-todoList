@@ -1,0 +1,15 @@
+
+body{
+    height: 100vh;
+    font-family: sans-serif;
+   
+    background: linear-gradient(
+        135deg,
+        #173d5e,
+        #17151b
+    );
+}
+h2{
+    color: rgb(233, 214, 214);
+}
+
